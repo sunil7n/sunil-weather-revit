@@ -1,0 +1,23 @@
+{
+  "name": "sunil-weather",
+  "version": "1.0.0",
+  "description": "Sydney where the temperature is predicated to be",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil7n/sunil-weather.git"
+  },
+  "author": "sunil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunil7n/sunil-weather/issues"
+  },
+  "homepage": "https://github.com/sunil7n/sunil-weather#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "request": "^2.88.2"
+  }
+}
